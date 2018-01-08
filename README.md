@@ -22,7 +22,7 @@ To begin using this template, choose one of the following options to get started
 * [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/coming-soon/)
 * Install via npm: `npm i startbootstrap-coming-soon`
 * Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-coming-soon.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-coming-soon)
+* [Fork, Clone, or Download on GitHub](https://github.com/jbstoker/startbootstrap-coming-soon)
 
 ## Usage
 
